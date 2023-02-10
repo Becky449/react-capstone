@@ -51,7 +51,7 @@ This application displays Covid-19 updates(statistical data) for all continents 
 > Here is a link (https://project--wonderful-melba-fc2102.netlify.app/) to the live page.
 
 # Recorded video
-> Here is a link (https://www.loom.com/share/719548b523fd4cd999bebb345a83c243) to the recorded video.
+> Here is a link (https://www.loom.com/share/f468fdfb16584fbab4d2a0fbd030b43c) to the recorded video.
 
 
 
