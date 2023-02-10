@@ -89,11 +89,11 @@ body {
 }
 
 .country_display:nth-child(odd) {
-  background-color: rgb(236, 52, 144);
+  background-color: rgb(243, 13, 224);
 }
 
 .country_display:nth-child(even) {
-  background-color: rgb(236, 52, 144);
+  background-color: rgb(243, 13, 224);
 }
 
 .main {
