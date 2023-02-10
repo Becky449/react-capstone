@@ -153,7 +153,7 @@ Give a ⭐️ if you like this project!
 
 ### 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/blase147/react-capstone/blob/dev/LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 
 

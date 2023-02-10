@@ -31,8 +31,7 @@ body {
 }
 
 #arrow-left {
-  color: #fff;
-  font-size: 3em;
+  display: none;
 }
 
 .icons {
